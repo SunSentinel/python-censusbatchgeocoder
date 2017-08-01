@@ -1,6 +1,6 @@
 # python-censusbatchgeocoder
 
-A simple Python wrapper for [U.S. Census Geocoding Services API batch service](https://www.documentcloud.org/documents/3894452-Census-Geocoding-Services-API.html).
+A simple Python wrapper for [U.S. Census Geocoding Services API batch service](https://www.documentcloud.org/documents/3894452-Census-Geocoding-Services-API.html) or use the [U.S. Census geocoding web portal](https://geocoding.geo.census.gov/).
 
 [![Build Status](https://travis-ci.org/datadesk/python-censusbatchgeocoder.png?branch=master)](https://travis-ci.org/datadesk/python-censusbatchgeocoder)
 [![PyPI version](https://badge.fury.io/py/censusbatchgeocoder.png)](http://badge.fury.io/py/censusbatchgeocoder)
@@ -16,7 +16,7 @@ A simple Python wrapper for [U.S. Census Geocoding Services API batch service](h
 1. Clone the repository to your machine: `git clone https://github.com/SunSentinel/python-censusbatchgeocoder.git`
 2. Move into the repository: `cd python-censusbatchgeocoder`
 3. Create a virtual environment with Python 3: `virtualenv geocoderenv`
-4. Activate your virtual environment: `source geocoder/bin/activate`
+4. Activate your virtual environment: `source geocoderenv/bin/activate`
 5. Install Python dependencies: `pip install -r requirements.txt`
 
 ### Installation
