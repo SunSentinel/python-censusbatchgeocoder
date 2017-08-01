@@ -1,0 +1,5 @@
+id,address,city,state,zipcode,metadata
+1,9942 Clint Moore Rd,Boca Raton,FL,33496,foo
+2,1855 S State Rd 7,Fort Lauderdale,FL,33317,bar
+3,1 Seminole Way,Fort Lauderdale,FL,33314,foo
+4,9250 NW 7th Ave,Miami,FL,33150,bar

@@ -1,0 +1,5 @@
+,address,block,city,coordinates,county_fips,geocoded_address,id,is_exact,is_match,latitude,longitude,metadata,returned_address,side,state,state_fips,tiger_line,tract,zipcode
+0,9942 Clint Moore Rd,3000,Boca Raton,"-80.20204,26.408699",099,"9942 Clint Moore Rd, Boca Raton, FL, 33496",1,Exact,Match,26.408699,-80.20204,foo,"9942 CLINT MOORE RD, BOCA RATON, FL, 33496",R,FL,12,115324758,007743,33496
+1,1855 S State Rd 7,3000,Fort Lauderdale,"-80.20135,26.098402",011,"1855 S State Rd 7, Fort Lauderdale, FL, 33317",2,Non_Exact,Match,26.098402,-80.20135,bar,"1855 S STATE RD 7, FORT LAUDERDALE, FL, 33317",R,FL,12,114714510,061100,33317
+2,1 Seminole Way,2028,Fort Lauderdale,"-80.29049,26.102438",011,"1 Seminole Way, Fort Lauderdale, FL, 33314",3,Non_Exact,Match,26.102438,-80.29049,foo,"1 SEMINOLE DR, FORT LAUDERDALE, FL, 33314",R,FL,12,114818064,070208,33314
+3,9250 NW 7th Ave,1003,Miami,"-80.20961,25.859617",086,"9250 NW 7th Ave, Miami, FL, 33150",4,Exact,Match,25.859617,-80.20961,bar,"9250 NW 7TH AVE, MIAMI, FL, 33150",L,FL,12,116003123,001005,33150
