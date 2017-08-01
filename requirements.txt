@@ -1,5 +1,8 @@
+pandas
 agate
 requests
+pyopenssl
+xlrd
 six
 flake8
 twine
